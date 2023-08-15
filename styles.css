@@ -52,12 +52,12 @@ body {
 
 .image-1 {
   height: 100vh; /* Ocupar la altura completa en resolución de móvil */
-  background-image: url('WhatsApp-Image-2023-08-14-at-10.53.45-PM.jpg');
+  background-image: url('img/WhatsApp\ Image\ 2023-07-11\ at\ 9.19.37\ PM.jpeg');
 }
 
 .image-2 {
   height: 100vh; /* Ocupar la altura completa en resolución de móvil */
-  background-image: url('WhatsApp\ Image\ 2023-07-11\ at\ 9.19.37\ PM.jpeg');
+  background-image: url('img/WhatsApp-Image-2023-08-14-at-10.53.45-PM.jpg');
   opacity: 0;
 }
 
